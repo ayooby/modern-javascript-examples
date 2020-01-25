@@ -40,6 +40,7 @@ You can first try to learn each section by reading the test. so you can learn ho
 ### Arrays
 arrays.js
 Know how work with arrays. by reading this section you can learn these items:
+
 | Method | Goal |
 |--|--|
 | `indexOf` | finding index of item in array |
@@ -60,6 +61,7 @@ Know how work with arrays. by reading this section you can learn these items:
 ## Object
 objects.js
 Know how work with arrays. by reading this section you can learn these items:
+
 |Method| Goal |
 |--|--|
 | `alterContext` | change context of function using object |
@@ -68,6 +70,7 @@ Know how work with arrays. by reading this section you can learn these items:
 
 ## Async
 async.js
+
 |Method| Goal |
 |--|--|
 | `async` | learn Promise  |
@@ -75,18 +78,21 @@ async.js
 
 ## Modules
 modules.js
+
 |Method| Goal |
 |--|--|
 | `createModule` | a function that return module  |
 
 ## Interval
 count.js
+
 |Method| Goal |
 |--|--|
 | `count` | running commands every X time  |
 
 ## Functions
 functions.js
+
 |Method| Goal |
 |--|--|
 | `argsAsArray` | learn how to use spread in args  |
@@ -101,6 +107,7 @@ functions.js
 
 ## Numbers
 numbers.js
+
 |Method| Goal |
 |--|--|
 | `valueAtBit` | find the value of a given bit  |
@@ -110,6 +117,7 @@ numbers.js
 
 ## Regex
 regex.js
+
 |Method| Goal |
 |--|--|
 | `containsNumber` | detect numbers in string |
@@ -121,6 +129,7 @@ regex.js
 
 ## Logical Operators
 logicalOperators.js
+
 |Method| Goal |
 |--|--|
 | `or` | or operatore |
@@ -128,6 +137,7 @@ logicalOperators.js
 
 ## Recursion
 recursion.js
+
 |Method| Goal |
 |--|--|
 | `listFiles` | using recursion to get folder names. |
